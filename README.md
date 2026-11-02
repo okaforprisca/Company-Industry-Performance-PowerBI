@@ -74,8 +74,10 @@ Explores revenue by sector, company registration status, leading companies by re
 
 ### Project Files
 
+<img width="1230" height="716" alt="Screenshot 2026-11-02 130037" src="https://github.com/user-attachments/assets/837fa836-b158-42ff-9014-14c5e3611b10" />
 
 
+<img width="1228" height="696" alt="Screenshot 2026-11-02 130225" src="https://github.com/user-attachments/assets/cda96c7c-455d-4a71-b1be-5071973d0d9d" />
 
 ### Author
 
