@@ -5,14 +5,14 @@
 ## Table Of Content
 
 - [Project Overview](#project-overview)
-- [Business Questions](business-questions)
-- [Tools](tools)
-- [Dashboard Pages](dashboard-pages)
-- [Analysis Approach](analysis-approach)
-- [Key Findings](key-findings)
-- [Business Recommendations](business-recommendations)
-- [Data Source](data-source)
-- [Limitations](limitations)
+- [Business Questions](#business-questions)
+- [Tools](#tools)
+- [Dashboard Pages](#dashboard-pages)
+- [Analysis Approach](#analysis-approach)
+- [Key Findings](#key-findings)
+- [Business Recommendations](#business-recommendations)
+- [Data Source](#data-source)
+- [Limitations](#limitations)
 
 ### Project Overview
 
@@ -65,6 +65,8 @@ Explores revenue by sector, company registration status, leading companies by re
 - Monitor employee counts alongside revenue to support workforce and performance discussions.
 
 ### Data Source
+
+The dataset was provided by Bizmarrow Technologies as part of the practical training and project exercises. It was used for data cleaning, exploration, analysis and generating insights.
 
 ### Limitations
 
